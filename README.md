@@ -1,5 +1,11 @@
 # 3D-quadrotor
-THis is a project i started through the course Aerial robotics in coursera
+THis is a project i worked on 
+to show how to automate a quadcopter
+through sensor data and the UAV
+parameters
+
+i was inspired by the course 
+Aerial robotics in coursera
 I recommend beginners to follow it
 
 
@@ -32,3 +38,5 @@ The Runsim.m is the
 Run program with necessary desired waypoints
 it is also meant to choose the Navigation 
 style
+
+let's get started.
